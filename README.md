@@ -116,6 +116,17 @@ The CNN model achieved:
 The generated susceptibility maps show strong flood-prone patterns near river corridors and low-lying terrain regions.
 
 ---
+Raw DEM
+   ↓
+Terrain Preprocessing
+   ↓
+Raster Harmonization
+   ↓
+Patch Extraction
+   ↓
+CNN Training
+   ↓
+Flood Susceptibility Mapping
 
 ## Repository Structure
 
