@@ -1,5 +1,5 @@
 """
-DHARA — AOI DEM PREPROCESSING PIPELINE
+AOI DEM PREPROCESSING PIPELINE
 =====================================
 
 Processes ONE merged AOI DEM (UTM projected) and generates:
